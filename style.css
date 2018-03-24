@@ -1,0 +1,19 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+.cf::after {
+    content:"";
+    clear:both;
+    display:table;
+}
+
+.container {
+    width:1200px;
+    background:rgba(0, 15, 27, 0.27);
+    margin:0 auto;
+}
+.hello {
+    text-align:center;
+    font-family:'Ubuntu',sans-serif;
+}
